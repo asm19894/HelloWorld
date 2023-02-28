@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\bin\Debug\net7.0\Example001_Hello.exe
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\bin\Debug\net7.0\Example001_Hello.deps.json
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\bin\Debug\net7.0\Example001_Hello.runtimeconfig.json
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\bin\Debug\net7.0\Example001_Hello.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\bin\Debug\net7.0\Example001_Hello.pdb
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.AssemblyInfo.cs
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\refint\Example001_Hello.dll
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.pdb
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\Example001_Hello.genruntimeconfig.cache
+C:\Users\Анна\Desktop\УЧЕБА\3. Языки программирования\Examples\Example001_Hello\obj\Debug\net7.0\ref\Example001_Hello.dll
